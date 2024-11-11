@@ -1,13 +1,13 @@
 ### Hey! I'm Forget 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f0rgeti&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gehardi&show_icons=true&theme=dracula)
 
 
 ## 📚 Interests
 
  <div>
  <p>
- • 🌐 Full stack development
+ • 🌐 Full Stack development
  </p>
  
  <p>
@@ -32,6 +32,6 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f0rgeti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gehardi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  
